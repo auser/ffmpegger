@@ -2,10 +2,12 @@
 
 Easy as pie:
 
-Ffmpegger.convert "#{File.dirname(__FILE__)}/samples/cb.mov" do
-  resolution "720x480"
-  bitrate "500"
-end
+<pre><code>
+  Ffmpegger.convert "#{File.dirname(__FILE__)}/samples/cb.mov" do
+    resolution "720x480"
+    bitrate "500"
+  end
+</code></pre>
 
 Look at ffmpegger.rb to see the options that are editable currently for ffmpeg. Based on the super sweet high quality conversion from http://www.flashcomguru.com/index.cfm/2008/2/2/jaw-drop-h264
 
