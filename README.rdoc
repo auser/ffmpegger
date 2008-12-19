@@ -7,7 +7,7 @@ Easy as pie:
     bitrate "500"
   end
 
-Look at ffmpegger.rb to see the options that are editable currently for ffmpeg. Based on the super sweet high quality conversion from http://www.flashcomguru.com/index.cfm/2008/2/2/jaw-drop-h264
+Look at ffmpegger.rb to see the options that are editable currently for ffmpeg. Based on the super sweet high quality conversion from "http://www.flashcomguru.com/index.cfm/2008/2/2/jaw-drop-h264":http://www.flashcomguru.com/index.cfm/2008/2/2/jaw-drop-h264
 
 == LICENSE:
 
